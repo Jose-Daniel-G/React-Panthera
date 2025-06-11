@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Jose-Daniel-G/React-Panthera/static/css/main.7c1ae12c.css",
-    "main.js": "/Jose-Daniel-G/React-Panthera/static/js/main.03cc1556.js",
-    "static/js/453.209ace58.chunk.js": "/Jose-Daniel-G/React-Panthera/static/js/453.209ace58.chunk.js",
-    "static/media/image.png": "/Jose-Daniel-G/React-Panthera/static/media/image.e113122e6ba0d59d1d62.png",
-    "static/media/uploaded.png": "/Jose-Daniel-G/React-Panthera/static/media/uploaded.9a22fd2377da78180fe3.png",
-    "index.html": "/Jose-Daniel-G/React-Panthera/index.html",
-    "main.7c1ae12c.css.map": "/Jose-Daniel-G/React-Panthera/static/css/main.7c1ae12c.css.map",
-    "main.03cc1556.js.map": "/Jose-Daniel-G/React-Panthera/static/js/main.03cc1556.js.map",
-    "453.209ace58.chunk.js.map": "/Jose-Daniel-G/React-Panthera/static/js/453.209ace58.chunk.js.map"
+    "main.css": "//jose-daniel-g.github.io/React-Panthera/static/css/main.7c1ae12c.css",
+    "main.js": "//jose-daniel-g.github.io/React-Panthera/static/js/main.7c45eb7f.js",
+    "static/js/453.209ace58.chunk.js": "//jose-daniel-g.github.io/React-Panthera/static/js/453.209ace58.chunk.js",
+    "static/media/image.png": "//jose-daniel-g.github.io/React-Panthera/static/media/image.e113122e6ba0d59d1d62.png",
+    "static/media/uploaded.png": "//jose-daniel-g.github.io/React-Panthera/static/media/uploaded.9a22fd2377da78180fe3.png",
+    "index.html": "//jose-daniel-g.github.io/React-Panthera/index.html",
+    "main.7c1ae12c.css.map": "//jose-daniel-g.github.io/React-Panthera/static/css/main.7c1ae12c.css.map",
+    "main.7c45eb7f.js.map": "//jose-daniel-g.github.io/React-Panthera/static/js/main.7c45eb7f.js.map",
+    "453.209ace58.chunk.js.map": "//jose-daniel-g.github.io/React-Panthera/static/js/453.209ace58.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c1ae12c.css",
-    "static/js/main.03cc1556.js"
+    "static/js/main.7c45eb7f.js"
   ]
 }
