@@ -13,3 +13,4 @@ Puedes ver el diseño de la aplicación en Figma en el siguiente enlace:
 In the project directory, you can run:
 ### `npm start`
 
+npm install react-scripts --save-dev
