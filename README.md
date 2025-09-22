@@ -1,5 +1,10 @@
 
 
+`URL: `https://jose-daniel-g.github.io/React-Panthera/
+
+npm install gh-pages --save-dev
+npm run deploy
+
 # Test Design in React for Panthera company
 
 ## Este es el diseno:
